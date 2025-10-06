@@ -100,7 +100,7 @@ int main() {
         
     } while(lanjut == 'y' || lanjut == 'Y');
     
-    cout << "\nProgram selesai. Sampai jumpa!\n";
+    cout << "\nProgram selesai. Sampai jumpa BY damar Dstadium!\n";
     
     return 0;
 }
